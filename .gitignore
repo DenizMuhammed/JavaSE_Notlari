@@ -1,0 +1,8 @@
+.metadata/*
+JAVA_KAYNAK_KODLAR/.metadata/*
+JAVA_KAYNAK_KODLAR/bin/*
+JAVA_KAYNAK_KODLAR/.settings/*
+JAVA_KAYNAK_KODLAR/.classpath
+JAVA_KAYNAK_KODLAR/.project
+
+
