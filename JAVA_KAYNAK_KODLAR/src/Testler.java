@@ -5,13 +5,12 @@ public class Testler {
 	
 	public static void main(String[] args) {
 		
-	var nesne= new MultiReturns();
 
+	var ort = new VarArgsMethods();
 	
-	nesne.fonk(3,33.2,true,"muhammed ");
 	
-	System.out.println(nesne.strings);
-	
+	ort.aritmatikOrtalama(0.1,0.2,0.3,0.44);
+			
 }
 
 

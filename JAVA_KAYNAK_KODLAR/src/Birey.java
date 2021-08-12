@@ -31,3 +31,4 @@ public class Birey {
 	
 
 }
+// bu yorum nano editörü ile eklendi. 12.08.2021
